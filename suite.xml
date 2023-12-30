@@ -9,6 +9,7 @@
         <classes>
             <class name="org.example.tests.PeopleApiTest" />
             <!-- Add more test classes as needed -->
+            <class name="org.example.tests.ApiTest" />
         </classes>
     </test>
 </suite>
