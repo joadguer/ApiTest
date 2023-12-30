@@ -1,7 +1,11 @@
 package org.example.pojos;
 
 
+import lombok.Data;
+
 import java.util.List;
+
+@Data
 
 public class Planet {
     private String name;
